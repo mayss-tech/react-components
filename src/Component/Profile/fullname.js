@@ -1,4 +1,5 @@
-import  React, {Component  } from "react";
+import  React, {Component} from "react";
+
 class Fullname extends Component {
     constructor(props) {
         super(props);
@@ -9,8 +10,7 @@ class Fullname extends Component {
             <>
             <h3>Mayssa LOUATI</h3>
             </>
-         );
+        );
     }
 }
- 
-export default Fullname ;
+export default Fullname;

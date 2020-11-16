@@ -1,4 +1,4 @@
-import React, {Component  } from 'react';
+import React, {Component} from 'react';
 
 class  Photoprofile extends Component {
     constructor(props) {
@@ -8,8 +8,7 @@ class  Photoprofile extends Component {
     render() { 
         return ( 
             <img src="/profil.jpg"alt="img"/>
-         );
+        );
     }
 }
- 
-export default Photoprofile ;
+export default Photoprofile;

@@ -1,8 +1,8 @@
 import React from 'react';
 import './App.css';
-import Adress from './profil/adress';
-import Fullname from './profil/fullname';
-import Photoprofile from './profil/photoprofil';
+import Adress from './Component/Profile/adress';
+import Fullname from './Component/Profile/fullname';
+import Photoprofile from './Component/Profile/photoprofil';
 
 function App() {
   return (
